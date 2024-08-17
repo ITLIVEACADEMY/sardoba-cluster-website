@@ -33,12 +33,86 @@
 	height: 90%;
 	position: relative;
 }
+
 .who-we-are-one-leftbox .fid-style-area{
 	position: absolute;
 	right: 0;
 	width: auto;
 	bottom: 0;
 	max-width: 100%;
+}
+/* about cotton cleaning start*/
+.who-we-are-one-leftbox-2 .fid-style-area{
+	position: absolute;
+	right: 0;
+	width: auto;
+	bottom: 0;
+	max-width: 100%;
+}
+.who-we-are-one-leftbox-2{
+	background-image: url(../images/about/paxta\ tozalash.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	border-radius: 30px;
+	height: 90%;
+	position: relative;
+}
+/* about cotton cleaning end*/
+
+/*about innovative cocoon start*/
+.who-we-are-one-leftbox-3 .fid-style-area{
+	position: absolute;
+	right: 0;
+	width: auto;
+	bottom: 0;
+	max-width: 100%;
+}
+.who-we-are-one-leftbox-3{
+	background-image: url(../images/about/pillaxona.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	border-radius: 30px;
+	height: 90%;
+	position: relative;
+}
+/*about innovative cocoon end*/
+/*about mmtp start*/
+.who-we-are-one-leftbox-4 .fid-style-area{
+	position: absolute;
+	right: 0;
+	width: auto;
+	bottom: 0;
+	max-width: 100%;
+}
+
+.who-we-are-one-leftbox-4{
+	background-image: url(../images/about/portfolio_4.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	border-radius: 30px;
+	height: 90%;
+	position: relative;
+}
+/*about mmtp end*/
+.who-we-are-one-leftbox-5 .fid-style-area{
+	position: absolute;
+	right: 0;
+	width: auto;
+	bottom: 0;
+	max-width: 100%;
+}
+
+.who-we-are-one-leftbox-5{
+	background-image: url(../images/about/yog.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	border-radius: 30px;
+	height: 90%;
+	position: relative;
 }
 .pbmit-sticky-corner {
     width: 30px;
@@ -108,7 +182,7 @@
 }
 .ihbox-style-5-bg{
 	position: relative;
-	background-image: url(../images/homepage-1/bg/icon-bg-img.png);
+	background-image: url(../images/homepage-1/bg/bg_icon.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
