@@ -2339,6 +2339,22 @@ footer.site-footer a{
     background-size: cover;
     background-attachment: scroll;
 }
+.bg_img_innovative{
+	background-image: url(../images/about/pillaxona2.jpg) !important;
+}
+.bg_img_cotton{
+	background-image: url(../images/about/paxta.jpg) !important;
+}
+.bg_img_mmtp{
+	background-image: url(../images/about/mmtp_3.jpg) !important;
+}
+.bg_img_oil{
+	background-image: url(../images/about/yog2.jpg) !important;
+}
+.bg_img_news_detail{
+	background-image: url(../images/about/bg.jpg) !important;
+}
+
 .pbmit-title-bar-wrapper,
 .pbmit-title-bar-content{
 	min-height: 500px;
