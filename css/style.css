@@ -97,6 +97,25 @@
 	position: relative;
 }
 /*about mmtp end*/
+/*about earth start*/
+.who-we-are-one-leftbox-4 .fid-style-area{
+	position: absolute;
+	right: 0;
+	width: auto;
+	bottom: 0;
+	max-width: 100%;
+}
+
+.who-we-are-one-leftbox-4{
+	background-image: url(../images/about/Ғалла.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	border-radius: 30px;
+	height: 90%;
+	position: relative;
+}
+/*about earth end*/
 .who-we-are-one-leftbox-5 .fid-style-area{
 	position: absolute;
 	right: 0;
